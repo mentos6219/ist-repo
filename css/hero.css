@@ -17,6 +17,10 @@ h1, h2{
 	font-family: 'Press Start 2P', cursive;
 }
 
+#grad{
+	background-color: linear-gradient(to right, #D1E0E0, #D1E2F2)
+}
+
 /* header styles*/
 
 header h1{
