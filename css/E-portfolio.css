@@ -7,11 +7,17 @@ body {
 	font-size: 20px;
 }
 
-nav ul li{
+nav ul li {
 	display: inline-block;
 }
 
-nav ul{
+nav ul {
 	margin: 0 auto;
 	padding: 30px;
+}
+
+nav {
+	background-color: #A3E4D7;
+	position: fixed;
+	z-index: 1;
 }
