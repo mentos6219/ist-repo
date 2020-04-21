@@ -25,6 +25,7 @@ nav {
 header {
 	top: 100px;
 	position: relative;
+	margin: 0;
 }
 
 nav a:hover {
@@ -42,7 +43,8 @@ nav a {
 .homepageheader {
 	padding-top: 400px;
 	font-family: 'Oxanium', sans-serif;
-	font-size: 60px
+	font-size: 60px;
+	background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-colorful-technology-internet-background-illustration-image_189811.jpg);
 }
 
 .navigation {
