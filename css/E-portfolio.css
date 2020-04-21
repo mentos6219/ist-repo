@@ -20,7 +20,8 @@ nav ul {
 }
 
 nav {
-	background-color: #A3E4D7;
+	background-color: #34495E;
+	color: #E6E6FA;
 	position: fixed;
 	z-index: 1;
 	width: 100%;
