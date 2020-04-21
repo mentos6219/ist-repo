@@ -47,3 +47,7 @@ nav a {
 .homepageheader {
 	padding-top: 200px;
 }
+
+.navigation {
+	text-decoration: none;
+}
