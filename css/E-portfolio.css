@@ -25,12 +25,12 @@ nav {
 	position: fixed;
 	z-index: 1;
 	width: 100%;
-	text-decoration: none;
 }
 
 header {
 	top: 100px;
 	position: relative;
+	text-decoration: none;
 }
 
 nav a:hover {
