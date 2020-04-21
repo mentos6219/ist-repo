@@ -30,11 +30,14 @@ nav {
 header {
 	top: 100px;
 	position: relative;
-	text-decoration: none;
 }
 
 nav a:hover {
 	color: #e2127A;
+}
+
+li a {
+	text-decoration: none;
 }
 
 nav a {
