@@ -32,6 +32,10 @@ header {
 	position: relative;
 }
 
+a:hover {
+	color: #e2127A;
+}
+
 .homepageheader {
-	top: 100px;
+	padding-top: 100px;
 }
