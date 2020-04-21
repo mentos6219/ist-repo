@@ -2,11 +2,6 @@ body {
 	font-family: Arial, sans-serif;
 }
 
-
-.text {
-	font-size: 20px;
-}
-
 nav ul li {
 	display: inline-block;
 	margin: 0 15px;
@@ -52,4 +47,11 @@ nav a {
 
 .navigation {
 	text-decoration: none;
+}
+
+.footer {
+	background-color: #e2127A;
+	text-align: center;
+	color: white;
+	padding: 50px;
 }
