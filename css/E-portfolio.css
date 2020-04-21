@@ -25,6 +25,7 @@ nav {
 	position: fixed;
 	z-index: 1;
 	width: 100%;
+	text-decoration: none;
 }
 
 header {
