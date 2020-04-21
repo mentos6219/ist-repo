@@ -9,6 +9,9 @@ body {
 
 nav ul li {
 	display: inline-block;
+	margin: 0 15px;
+	padding: 0;
+	text-transform: uppercase;
 }
 
 nav ul {
