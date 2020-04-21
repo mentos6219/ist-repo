@@ -6,3 +6,7 @@ body {
 .text {
 	font-size: 20px;
 }
+
+ul li{
+	display: inline-block;
+}
