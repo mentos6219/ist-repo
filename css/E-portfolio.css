@@ -36,6 +36,10 @@ a:hover {
 	color: #e2127A;
 }
 
+a {
+	color: #E6E6FA;
+}
+
 .homepageheader {
 	padding-top: 200px;
 }
