@@ -28,6 +28,10 @@ header {
 	margin: 0;
 }
 
+nav a {
+	color: #E6E6FA;
+}
+
 nav a:hover {
 	color: #e2127A;
 }
@@ -36,8 +40,8 @@ li a {
 	text-decoration: none;
 }
 
-nav a {
-	color: #E6E6FA;
+main {
+	margin: 0;
 }
 
 .homepageheader {
