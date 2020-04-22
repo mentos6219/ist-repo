@@ -40,6 +40,10 @@ nav a {
 	color: #E6E6FA;
 }
 
+main {
+	padding: 0px;
+}
+
 .homepageheader {
 	padding-top: 400px;
 	font-family: 'Oxanium', sans-serif;
