@@ -40,15 +40,14 @@ nav a {
 	color: #E6E6FA;
 }
 
-main {
-	padding: 0px;
-}
-
 .homepageheader {
-	padding-top: 400px;
+	padding-top: 300px;
 	font-family: 'Oxanium', sans-serif;
 	font-size: 60px;
+	color: white;
 	background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-colorful-technology-internet-background-illustration-image_189811.jpg);
+	background-repeat: round;
+	background-size: 100%;
 }
 
 .navigation {
