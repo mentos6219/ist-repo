@@ -2,6 +2,10 @@ body {
 	font-family: Arial, sans-serif;
 }
 
+p {
+	font-size: 20px;
+}
+
 header {
 	top: 100px;
 	position: relative;
@@ -55,12 +59,19 @@ body img {
 	font-family: 'Oxanium', sans-serif;
 	color: black;
 	text-align: left;
-	background-color: white;
 	margin-left: 50px;
+	line-height: 35px;
 }
 
-p {
+.aboutfacts {
+	margin-left: 50px;
+	color: black;
+	text-align: left;
+}
+
+.list {
 	font-size: 20px;
+	line-height: 40px;
 }
 
 .homepageheader {
