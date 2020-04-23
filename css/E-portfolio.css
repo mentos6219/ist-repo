@@ -40,6 +40,29 @@ li a {
 	text-decoration: none;
 }
 
+body img {
+	margin-top: 100px;
+	width: 250px;
+	max-height: 30%;
+	max-width: 30%;
+	border: 10px solid #778899;
+	float: right;
+	margin-right: 50px;
+}
+
+.aboutcareer {
+	padding-top: 100px;
+	font-family: 'Oxanium', sans-serif;
+	color: black;
+	text-align: left;
+	background-color: white;
+	margin-left: 50px;
+}
+
+p {
+	font-size: 20px;
+}
+
 .homepageheader {
 	padding-top: 300px;
 	font-family: 'Oxanium', sans-serif;
