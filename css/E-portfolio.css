@@ -76,6 +76,7 @@ h1 {
 }
 
 .aboutcareer {
+	padding-top: 100px;
 	font-family: 'Oxanium', sans-serif;
 	color: black;
 	text-align: left;
@@ -115,6 +116,7 @@ h1 {
 }
 
 .LikesImages {
+	padding-top: 0px;
 	float: right;
 }
 
