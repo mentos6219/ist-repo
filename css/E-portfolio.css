@@ -4,6 +4,7 @@ body {
 
 p {
 	font-size: 20px;
+	font-family: 'IBM Plex Mono', sans-serif;
 }
 
 header {
@@ -34,6 +35,8 @@ nav ul {
 
 nav a {
 	color: #E6E6FA;
+	font-family: 'Abel', sans-serif;
+	font-size: 25px;
 }
 
 nav a:hover {
@@ -45,6 +48,15 @@ li a {
 }
 
 body img {
+	width: 250px;
+	max-height: 30%;
+	max-width: 30%;
+	border: 10px solid #778899;
+	float: right;
+	margin-right: 50px;
+}
+
+.me {
 	margin-top: 100px;
 	width: 250px;
 	max-height: 30%;
@@ -67,11 +79,20 @@ body img {
 	margin-left: 50px;
 	color: black;
 	text-align: left;
+	font-family: 'Oxanium', sans-serif;
+}
+
+.aboutgoals {
+	margin-left: 50px;
+	padding-bottom: 50px;
+	font-family: 'Oxanium', sans-serif;
 }
 
 .list {
 	font-size: 20px;
 	line-height: 40px;
+	display: inline;
+	font-family: 'IBM Plex Mono', sans-serif;
 }
 
 .homepageheader {
@@ -83,6 +104,11 @@ body img {
 	background-repeat: round;
 	background-size: 100%;
 	text-align: center;
+}
+
+.LikesImages {
+	padding-top: 0px;
+	float: right;
 }
 
 .navigation {
