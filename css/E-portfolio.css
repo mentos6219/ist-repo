@@ -56,6 +56,15 @@ body img {
 	margin-right: 50px;
 }
 
+h1 {
+	padding-top: 120px;
+	font-family: 'Oxanium', sans-serif;
+	color: black;
+	text-align: left;
+	margin-left: 50px;
+	line-height: 35px;
+}
+
 .me {
 	margin-top: 100px;
 	width: 250px;
@@ -98,7 +107,7 @@ body img {
 .homepageheader {
 	padding-top: 300px;
 	font-family: 'Oxanium', sans-serif;
-	font-size: 60px;
+	font-size: 80px;
 	color: white;
 	background-image: url(https://cdn6.f-cdn.com/contestentries/1370548/19120511/5b4d43f5c58ce_thumb900.jpg);
 	background-repeat: round;
