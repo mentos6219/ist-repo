@@ -14,6 +14,8 @@ header {
 	margin: 0;
 }
 
+/*NavBar*/
+
 nav ul li {
 	display: inline-block;
 	margin: 0 15px;
@@ -49,6 +51,22 @@ li a {
 	text-decoration: none;
 }
 
+.navigation {
+	text-decoration: none;
+}
+
+/*images*/
+
+.me {
+	margin-top: 150px;
+	width: 250px;
+	max-height: 30%;
+	max-width: 30%;
+	border: 10px solid #778899;
+	float: right;
+	margin-right: 50px;
+}
+
 body img {
 	width: 300px;
 	max-height: 30%;
@@ -56,6 +74,11 @@ body img {
 	border: 10px solid #778899;
 	float: right;
 	margin-right: 50px;
+}
+
+.LikesImages {
+	padding-top: 0px;
+	float: right;
 }
 
 .UNSW {
@@ -67,15 +90,7 @@ body img {
 	margin-right: 150px;
 }
 
-.me {
-	margin-top: 150px;
-	width: 250px;
-	max-height: 30%;
-	max-width: 30%;
-	border: 10px solid #778899;
-	float: right;
-	margin-right: 50px;
-}
+/*About Page*/
 
 .aboutcareer {
 	padding-top: 100px;
@@ -107,6 +122,8 @@ body img {
 	padding: 0 0 0 0;
 }
 
+/*Home Page*/
+
 .homepageheader {
 	padding-top: 300px;
 	font-family: 'Oxanium', sans-serif;
@@ -118,19 +135,36 @@ body img {
 	text-align: center;
 }
 
-.LikesImages {
-	padding-top: 0px;
-	float: right;
-}
-
-.navigation {
-	text-decoration: none;
-}
+/*Footer*/
 
 .footer {
 	background-color: #e2127A;
 	text-align: center;
 	color: white;
 	padding: 50px;
+	font-family: 'Oxanium', sans-serif;
+}
+
+/*Assessment 1 styles*/
+
+.WorldWideWeb {
+	padding-top: 100px;
+	margin-left: 50px;
+	font-family: 'Oxanium', sans-serif;
+	margin-right: 100px;
+}
+
+.Internet {
+	margin-left: 50px;
+	font-family: 'Oxanium', sans-serif;
+}
+
+.Intranet {
+	margin-left: 50px;
+	font-family: 'Oxanium', sans-serif;
+}
+
+.InternetProtocol{
+	margin-left: 50px;
 	font-family: 'Oxanium', sans-serif;
 }
