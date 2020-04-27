@@ -90,6 +90,10 @@ body img {
 	margin-right: 150px;
 }
 
+.WorldWideWeb img {
+	float: left;
+}
+
 /*About Page*/
 
 .aboutcareer {
